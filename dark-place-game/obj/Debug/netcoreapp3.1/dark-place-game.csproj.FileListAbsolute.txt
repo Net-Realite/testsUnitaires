@@ -1,0 +1,11 @@
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/obj/Debug/netcoreapp3.1/dark-place-game.csprojAssemblyReference.cache
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/obj/Debug/netcoreapp3.1/dark-place-game.AssemblyInfoInputs.cache
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/obj/Debug/netcoreapp3.1/dark-place-game.AssemblyInfo.cs
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game.deps.json
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game.runtimeconfig.json
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game.runtimeconfig.dev.json
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game.dll
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/bin/Debug/netcoreapp3.1/dark-place-game.pdb
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/obj/Debug/netcoreapp3.1/dark-place-game.dll
+/Users/a/Documents/Cours IPI/Intégration/dark-place-engine/dark-place-game/obj/Debug/netcoreapp3.1/dark-place-game.pdb
